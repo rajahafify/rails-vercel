@@ -2610,7 +2610,7 @@ vite@^4.4.5:
   optionalDependencies:
     fsevents "~2.3.2"
 
-wasmify-rails@^0.2.0:
+wasmify-rails@^0.2.2:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/wasmify-rails/-/wasmify-rails-0.2.0.tgz#31e6eab5d8d494a070acb35d850e8f1b73119e46"
   integrity sha512-5UIFbc4QJarR+1s8gndJGwGPcdE5Vu7LgBnjVttphoEreZcPANHcmT7RLr6qyvw1lDQQDOy1vvyHtT496hOTZQ==
